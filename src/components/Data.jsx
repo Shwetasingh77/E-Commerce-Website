@@ -80,6 +80,14 @@ export const items =  [
       description: 'Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, ',
       price: '89999',
     },
-
+    {
+      id: 10,
+      category: 'laptops',
+      title: " MacBook Air Laptop",
+      imgSrc: 'https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg',
+      amazonLink: 'https://amzn.to/3r9rvhm',
+      description: 'Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, ',
+      price: '89999',
+    },
 
   ]
